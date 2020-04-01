@@ -1,6 +1,6 @@
 # Iqra-website
 
-<em>hello this is my</em> **new** <em>website</em>
+<em>hello this is</em> <code>my</code> **new** <em>website</em>
 
 <h2> this is my Header </h2>
 
