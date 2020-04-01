@@ -2,7 +2,7 @@
 
 <em>hello this is</em> <code>my</code> **new** <em>website</em>
 
-<h2> this is my Header </h2>
+<h2> this is my <code>Header</code></h2>
 
 <em>italics</em>
 
