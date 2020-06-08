@@ -21,16 +21,16 @@
 - research uni courses
 - self teach violin grade 7
 - learn about quantum computing
-  <code>Harvard courses:</code>
+<code>Harvard courses:</code>
   - machine learning
   - game development
-   <code>Reading:</code>
+<code>Reading:</code>
   - deep work
-  <code>Baking:</code>
+<code>Baking:</code>
   - donuts
   - bread
   - tiramisu
-  <code>Art:</code>
+<code>Art:</code>
   - sewing / embroidery 
   - knitting 
   - drawing
