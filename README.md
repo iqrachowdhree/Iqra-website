@@ -18,8 +18,10 @@
 - arabic calligraphy 
 - research uni courses
 - self teach violin grade 7
-- learn about quantum computing
-- code academy
+  ### Coding:
+  - learn about quantum computing
+  - code academy
+  - harvard AI projects
   ### Harvard courses:
   - machine learning
   - game development
