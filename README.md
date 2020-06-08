@@ -12,7 +12,7 @@
 
 
 # WHAT I DID IN LOCKDOWN
-## TO DO 
+## _TO DO_
 - 3D motion design: blender
 - Tai Chi basic 8 form
 - arabic calligraphy 
