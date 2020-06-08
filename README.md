@@ -54,7 +54,7 @@
   - artificial intelligence 
   ### Reading: 
   - Hannah Fry 'Hello World'
-  Sherlock Holmes book
+  - Sherlock Holmes book
   ### Art:
   - painting
   - clay modelling
