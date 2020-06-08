@@ -14,10 +14,10 @@
 # WHAT I DID IN LOCKDOWN
 
 ## TO DO 
-learn to juggle 
-3D motion design: blender
-Tai Chi basic 8 form
-arabic calligraphy 
+- learn to juggle 
+- 3D motion design: blender
+- Tai Chi basic 8 form
+- arabic calligraphy 
 research uni courses
 self teach violin grade 7
 learn about quantum computing
