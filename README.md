@@ -13,7 +13,7 @@
 
 # WHAT I DID IN LOCKDOWN
 
-<code>## TO DO</code> 
+## TO DO
 - learn to juggle 
 - 3D motion design: blender
 - Tai Chi basic 8 form
@@ -21,16 +21,16 @@
 - research uni courses
 - self teach violin grade 7
 - learn about quantum computing
-  <em>### Harvard courses:</em>
+  <code>Harvard courses:</code>
   - machine learning
   - game development
-   ### Reading:
+   <code>Reading:</code>
   - deep work
-  ### Baking:
+  <code>Baking:</code>
   - donuts
   - bread
   - tiramisu
-  ### Art:
+  <code>Art:</code>
   - sewing / embroidery 
   - knitting 
   - drawing
