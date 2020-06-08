@@ -12,41 +12,39 @@
 
 
 # WHAT I DID IN LOCKDOWN
-
-## TO DO
-- learn to juggle 
+## TO DO 
 - 3D motion design: blender
 - Tai Chi basic 8 form
 - arabic calligraphy 
 - research uni courses
 - self teach violin grade 7
 - learn about quantum computing
-
-<code>Harvard courses:</code>
+- code academy
+  ### Harvard courses:
   - machine learning
   - game development
-
-<code>Reading:</code>
+  ### Reading:
   - deep work
-
-<code>Baking:</code>
+  ###Baking:
   - donuts
   - bread
   - tiramisu
-
-<code>Art:</code>
+  ### Art:
   - sewing / embroidery 
   - knitting 
   - drawing
 
 
 ## DOING 
-- learning arabic
-- doing the splits
-- Bo staff
 - Build up to 10 pull ups
-- started a-levels early
-  ### learning to code:
+- learn to juggle
+- rubix cube 
+- do the splits
+  ### Ongoing:
+  - learning arabic
+  - Bo staff
+  - started a-levels early
+  ### Coding:
   - github
   - python
   - minecraft
@@ -63,8 +61,11 @@
 
 ## DONE 
 - sisterhood X institute of coding, digital online workshop
+- deep work mindmap with my dad, got 20k+ views on his LinkedIn: 
+https://www.linkedin.com/posts/kashif-chowdhree-34a8028_sharing-my-mindmap-book-summary-of-cal-newports-activity-6672851109096239104-mGI-
   ### Baking:
   - cake
   - brownies
   - cookies
   - pretzels 
+
