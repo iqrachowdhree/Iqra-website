@@ -26,7 +26,7 @@ machine learning
 game development
 ### Reading:
 deep work
-###Baking:
+### Baking:
 donuts
 bread
 tiramisu
