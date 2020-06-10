@@ -3,21 +3,30 @@
 
 
 # WHAT I DID IN LOCKDOWN
-## _TO DO_
+## TO DO 
 - 3D motion design: blender
 - Tai Chi basic 8 form
-- arabic calligraphy 
-- research uni courses
+- arabic calligraphy
 - self teach violin grade 7
   ### Coding:
   - learn about quantum computing
+  - make website portfolio to display all my art, github
   - code academy
-  - harvard AI projects
+  - adafruit
+  - kitronik
+  - pimoroni
+  - hack space magazine 
+  - makeCode 
+  - jetbrains academy https://www.jetbrains.com/academy/
+  - circuit Python 
   ### Harvard courses:
   - machine learning
   - game development
+  - Harvard AI projects
   ### Reading:
-  - deep work
+  - hello world mindmap 
+  - dear data by Posavec and Lupi
+  - knowledge is beautiful by McCandless
   ### Baking:
   - donuts
   - bread
@@ -43,22 +52,23 @@
   - minecraft
   ### Harvard Courses:
   - artificial intelligence 
-  ### Reading: 
-  - Hannah Fry 'Hello World'
-  - Sherlock Holmes book
   ### Art:
   - painting
-  - clay modelling
   - digital illustration on Adobe Fresco
 
 
 ## DONE 
 - sisterhood X institute of coding, digital online workshop
-- deep work mindmap with my dad, got 20k+ views on his LinkedIn: 
-https://www.linkedin.com/posts/kashif-chowdhree-34a8028_sharing-my-mindmap-book-summary-of-cal-newports-activity-6672851109096239104-mGI-
+  ### Reading: 
+  - Sherlock Holmes
+  - Hannah Fry hello world 
+  - Deep work mindmap got 20k+ views on his LinkedIn: https://www.linkedin.com/posts/kashif-chowdhree-34a8028_sharing-my-mindmap-book-summary-of-cal-newports-activity-6672851109096239104-mGI-
+  ### Art: 
+  - clay models 
   ### Baking:
   - cake
   - brownies
   - cookies
   - pretzels 
+
 
