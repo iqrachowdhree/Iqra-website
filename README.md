@@ -8,25 +8,28 @@
 - Tai Chi basic 8 form
 - arabic calligraphy
 - self teach violin grade 7
+- imperial covid lessons asha sent https://www.imperial.ac.uk/be-inspired/student-recruitment-and-outreach/schools-and-colleges/students/lockdown-lessons/
   ### Coding:
   - learn about quantum computing
   - make website portfolio to display all my art, github
-  - code academy
-  - adafruit
-  - kitronik
-  - pimoroni
-  - hack space magazine 
-  - makeCode 
-  - jetbrains academy https://www.jetbrains.com/academy/
-  - circuit Python 
+  - linked in learning 
+  - o'Reilly 
+  - pummel 
   ### Harvard courses:
   - machine learning
   - game development
-  - Harvard AI projects
   ### Reading:
-  - hello world mindmap 
+  - hello world mindmap
+  - fear bubble ant middleton
+  - the confidence code for girls 
+  - goodnight stories for rebel girls (inventions by women)
   - dear data by Posavec and Lupi
-  - knowledge is beautiful by McCandless
+  - knowledge is beautiful
+  - artificial intelligence michael wooldridge
+  - game on! dustin hansen
+  - life 3.0
+  - AI melanie mitchell
+  - hackspace magazines 
   ### Baking:
   - donuts
   - bread
@@ -49,9 +52,8 @@
   ### Coding:
   - github
   - python
-  - minecraft
-  ### Harvard Courses:
-  - artificial intelligence 
+  - microsoft makecode minecraft
+  - LinkedIn Learning python by Joe marini
   ### Art:
   - painting
   - digital illustration on Adobe Fresco
@@ -59,9 +61,15 @@
 
 ## DONE 
 - sisterhood X institute of coding, digital online workshop
+  ### Online Courses:
+  - AmazonPython firetech camp 
+  - Harvard artificial intelligence
   ### Reading: 
+  - Hello world Hannah Fry
+  - girls who code 
+  - women in science 
+  - girls think of everything (inventions by women)
   - Sherlock Holmes
-  - Hannah Fry hello world 
   - Deep work mindmap got 20k+ views on his LinkedIn: https://www.linkedin.com/posts/kashif-chowdhree-34a8028_sharing-my-mindmap-book-summary-of-cal-newports-activity-6672851109096239104-mGI-
   ### Art: 
   - clay models 
@@ -70,5 +78,3 @@
   - brownies
   - cookies
   - pretzels 
-
-
